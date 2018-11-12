@@ -1,0 +1,607 @@
+mnist_relu_6_50.txt img62.txt 0.005
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.4543533325195312e-05  seconds
+
+mnist_relu_6_50.txt img62.txt 0.010
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.3589859008789062e-05  seconds
+
+mnist_relu_6_50.txt img62.txt 0.050
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  2.0503997802734375e-05  seconds
+
+mnist_relu_6_50.txt img62.txt 0.070
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  2.956390380859375e-05  seconds
+
+mnist_relu_6_50.txt img62.txt 0.100
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.2159347534179688e-05  seconds
+
+mnist_relu_6_50.txt img59.txt 0.005
+can not be verified
+analysis time:  0.24712753295898438  seconds
+
+mnist_relu_6_50.txt img59.txt 0.010
+can not be verified
+analysis time:  0.14506220817565918  seconds
+
+mnist_relu_6_50.txt img59.txt 0.050
+can not be verified
+analysis time:  0.14368557929992676  seconds
+
+mnist_relu_6_50.txt img59.txt 0.070
+can not be verified
+analysis time:  0.16784358024597168  seconds
+
+mnist_relu_6_50.txt img59.txt 0.100
+can not be verified
+analysis time:  0.16508126258850098  seconds
+
+mnist_relu_6_50.txt img87.txt 0.005
+can not be verified
+analysis time:  0.28060412406921387  seconds
+
+mnist_relu_6_50.txt img87.txt 0.010
+can not be verified
+analysis time:  0.1717700958251953  seconds
+
+mnist_relu_6_50.txt img87.txt 0.050
+can not be verified
+analysis time:  0.18920230865478516  seconds
+
+mnist_relu_6_50.txt img87.txt 0.070
+can not be verified
+analysis time:  0.11139917373657227  seconds
+
+mnist_relu_6_50.txt img87.txt 0.100
+can not be verified
+analysis time:  0.11833810806274414  seconds
+
+mnist_relu_6_50.txt img83.txt 0.005
+can not be verified
+analysis time:  0.12171816825866699  seconds
+
+mnist_relu_6_50.txt img83.txt 0.010
+can not be verified
+analysis time:  0.23364639282226562  seconds
+
+mnist_relu_6_50.txt img83.txt 0.050
+can not be verified
+analysis time:  0.33676695823669434  seconds
+
+mnist_relu_6_50.txt img83.txt 0.070
+can not be verified
+analysis time:  0.45584702491760254  seconds
+
+mnist_relu_6_50.txt img83.txt 0.100
+can not be verified
+analysis time:  0.23234987258911133  seconds
+
+mnist_relu_6_50.txt img32.txt 0.005
+can not be verified
+analysis time:  0.260120153427124  seconds
+
+mnist_relu_6_50.txt img32.txt 0.010
+can not be verified
+analysis time:  0.15038156509399414  seconds
+
+mnist_relu_6_50.txt img32.txt 0.050
+can not be verified
+analysis time:  0.11350655555725098  seconds
+
+mnist_relu_6_50.txt img32.txt 0.070
+can not be verified
+analysis time:  0.14661455154418945  seconds
+
+mnist_relu_6_50.txt img32.txt 0.100
+can not be verified
+analysis time:  0.266005277633667  seconds
+
+mnist_relu_6_50.txt img67.txt 0.005
+can not be verified
+analysis time:  0.14030027389526367  seconds
+
+mnist_relu_6_50.txt img67.txt 0.010
+can not be verified
+analysis time:  0.17389321327209473  seconds
+
+mnist_relu_6_50.txt img67.txt 0.050
+can not be verified
+analysis time:  0.17813372611999512  seconds
+
+mnist_relu_6_50.txt img67.txt 0.070
+can not be verified
+analysis time:  0.2773888111114502  seconds
+
+mnist_relu_6_50.txt img67.txt 0.100
+can not be verified
+analysis time:  0.2540547847747803  seconds
+
+mnist_relu_6_50.txt img44.txt 0.005
+can not be verified
+analysis time:  0.12772560119628906  seconds
+
+mnist_relu_6_50.txt img44.txt 0.010
+can not be verified
+analysis time:  0.15789484977722168  seconds
+
+mnist_relu_6_50.txt img44.txt 0.050
+can not be verified
+analysis time:  0.2937173843383789  seconds
+
+mnist_relu_6_50.txt img44.txt 0.070
+can not be verified
+analysis time:  0.26842594146728516  seconds
+
+mnist_relu_6_50.txt img44.txt 0.100
+can not be verified
+analysis time:  0.26761746406555176  seconds
+
+mnist_relu_6_50.txt img79.txt 0.005
+can not be verified
+analysis time:  0.1279439926147461  seconds
+
+mnist_relu_6_50.txt img79.txt 0.010
+can not be verified
+analysis time:  0.11594247817993164  seconds
+
+mnist_relu_6_50.txt img79.txt 0.050
+can not be verified
+analysis time:  0.15266013145446777  seconds
+
+mnist_relu_6_50.txt img79.txt 0.070
+can not be verified
+analysis time:  0.39169740676879883  seconds
+
+mnist_relu_6_50.txt img79.txt 0.100
+can not be verified
+analysis time:  0.3171825408935547  seconds
+
+mnist_relu_6_50.txt img58.txt 0.005
+can not be verified
+analysis time:  0.3157024383544922  seconds
+
+mnist_relu_6_50.txt img58.txt 0.010
+can not be verified
+analysis time:  0.25603508949279785  seconds
+
+mnist_relu_6_50.txt img58.txt 0.050
+can not be verified
+analysis time:  0.1491694450378418  seconds
+
+mnist_relu_6_50.txt img58.txt 0.070
+can not be verified
+analysis time:  0.1546339988708496  seconds
+
+mnist_relu_6_50.txt img58.txt 0.100
+can not be verified
+analysis time:  0.1593022346496582  seconds
+
+mnist_relu_6_50.txt img31.txt 0.005
+can not be verified
+analysis time:  0.19444775581359863  seconds
+
+mnist_relu_6_50.txt img31.txt 0.010
+can not be verified
+analysis time:  0.1413588523864746  seconds
+
+mnist_relu_6_50.txt img31.txt 0.050
+can not be verified
+analysis time:  0.21206974983215332  seconds
+
+mnist_relu_6_50.txt img31.txt 0.070
+can not be verified
+analysis time:  0.18294405937194824  seconds
+
+mnist_relu_6_50.txt img31.txt 0.100
+can not be verified
+analysis time:  0.1250920295715332  seconds
+
+mnist_relu_6_50.txt img75.txt 0.005
+can not be verified
+analysis time:  0.12929630279541016  seconds
+
+mnist_relu_6_50.txt img75.txt 0.010
+can not be verified
+analysis time:  0.1370391845703125  seconds
+
+mnist_relu_6_50.txt img75.txt 0.050
+can not be verified
+analysis time:  0.18149685859680176  seconds
+
+mnist_relu_6_50.txt img75.txt 0.070
+can not be verified
+analysis time:  0.2844564914703369  seconds
+
+mnist_relu_6_50.txt img75.txt 0.100
+can not be verified
+analysis time:  0.12539219856262207  seconds
+
+mnist_relu_6_50.txt img25.txt 0.005
+can not be verified
+analysis time:  0.11900162696838379  seconds
+
+mnist_relu_6_50.txt img25.txt 0.010
+can not be verified
+analysis time:  0.12141633033752441  seconds
+
+mnist_relu_6_50.txt img25.txt 0.050
+can not be verified
+analysis time:  0.12516069412231445  seconds
+
+mnist_relu_6_50.txt img25.txt 0.070
+can not be verified
+analysis time:  0.14995741844177246  seconds
+
+mnist_relu_6_50.txt img25.txt 0.100
+can not be verified
+analysis time:  0.11809444427490234  seconds
+
+mnist_relu_6_50.txt img78.txt 0.005
+can not be verified
+analysis time:  0.11849641799926758  seconds
+
+mnist_relu_6_50.txt img78.txt 0.010
+can not be verified
+analysis time:  0.13065457344055176  seconds
+
+mnist_relu_6_50.txt img78.txt 0.050
+can not be verified
+analysis time:  0.1273040771484375  seconds
+
+mnist_relu_6_50.txt img78.txt 0.070
+can not be verified
+analysis time:  0.12550687789916992  seconds
+
+mnist_relu_6_50.txt img78.txt 0.100
+can not be verified
+analysis time:  0.1532905101776123  seconds
+
+mnist_relu_6_50.txt img19.txt 0.005
+can not be verified
+analysis time:  0.1226954460144043  seconds
+
+mnist_relu_6_50.txt img19.txt 0.010
+can not be verified
+analysis time:  0.11065387725830078  seconds
+
+mnist_relu_6_50.txt img19.txt 0.050
+can not be verified
+analysis time:  0.11545872688293457  seconds
+
+mnist_relu_6_50.txt img19.txt 0.070
+can not be verified
+analysis time:  0.11465072631835938  seconds
+
+mnist_relu_6_50.txt img19.txt 0.100
+can not be verified
+analysis time:  0.1177830696105957  seconds
+
+mnist_relu_6_50.txt img61.txt 0.005
+image not correctly classified by the network. expected label  8  classified label:  2
+analysis time:  2.5987625122070312e-05  seconds
+
+mnist_relu_6_50.txt img61.txt 0.010
+image not correctly classified by the network. expected label  8  classified label:  2
+analysis time:  1.3589859008789062e-05  seconds
+
+mnist_relu_6_50.txt img61.txt 0.050
+image not correctly classified by the network. expected label  8  classified label:  2
+analysis time:  1.4066696166992188e-05  seconds
+
+mnist_relu_6_50.txt img61.txt 0.070
+image not correctly classified by the network. expected label  8  classified label:  2
+analysis time:  1.3828277587890625e-05  seconds
+
+mnist_relu_6_50.txt img61.txt 0.100
+image not correctly classified by the network. expected label  8  classified label:  2
+analysis time:  0.0002536773681640625  seconds
+
+mnist_relu_6_50.txt img66.txt 0.005
+can not be verified
+analysis time:  0.11482548713684082  seconds
+
+mnist_relu_6_50.txt img66.txt 0.010
+can not be verified
+analysis time:  0.1314988136291504  seconds
+
+mnist_relu_6_50.txt img66.txt 0.050
+can not be verified
+analysis time:  0.12444591522216797  seconds
+
+mnist_relu_6_50.txt img66.txt 0.070
+can not be verified
+analysis time:  0.1313483715057373  seconds
+
+mnist_relu_6_50.txt img66.txt 0.100
+can not be verified
+analysis time:  0.13374757766723633  seconds
+
+mnist_relu_6_50.txt img38.txt 0.005
+can not be verified
+analysis time:  0.1267852783203125  seconds
+
+mnist_relu_6_50.txt img38.txt 0.010
+can not be verified
+analysis time:  0.12754344940185547  seconds
+
+mnist_relu_6_50.txt img38.txt 0.050
+can not be verified
+analysis time:  0.1188814640045166  seconds
+
+mnist_relu_6_50.txt img38.txt 0.070
+can not be verified
+analysis time:  0.12077164649963379  seconds
+
+mnist_relu_6_50.txt img38.txt 0.100
+can not be verified
+analysis time:  0.11196279525756836  seconds
+
+mnist_relu_6_50.txt img45.txt 0.005
+can not be verified
+analysis time:  0.11535906791687012  seconds
+
+mnist_relu_6_50.txt img45.txt 0.010
+can not be verified
+analysis time:  0.11316561698913574  seconds
+
+mnist_relu_6_50.txt img45.txt 0.050
+can not be verified
+analysis time:  0.12782526016235352  seconds
+
+mnist_relu_6_50.txt img45.txt 0.070
+can not be verified
+analysis time:  0.11223292350769043  seconds
+
+mnist_relu_6_50.txt img45.txt 0.100
+can not be verified
+analysis time:  0.12138509750366211  seconds
+
+mnist_relu_6_50.txt img35.txt 0.005
+can not be verified
+analysis time:  0.11367106437683105  seconds
+
+mnist_relu_6_50.txt img35.txt 0.010
+can not be verified
+analysis time:  0.11730813980102539  seconds
+
+mnist_relu_6_50.txt img35.txt 0.050
+can not be verified
+analysis time:  0.12175846099853516  seconds
+
+mnist_relu_6_50.txt img35.txt 0.070
+can not be verified
+analysis time:  0.12673139572143555  seconds
+
+mnist_relu_6_50.txt img35.txt 0.100
+can not be verified
+analysis time:  0.17444086074829102  seconds
+
+mnist_relu_6_50.txt img37.txt 0.005
+can not be verified
+analysis time:  0.13545989990234375  seconds
+
+mnist_relu_6_50.txt img37.txt 0.010
+can not be verified
+analysis time:  0.11559677124023438  seconds
+
+mnist_relu_6_50.txt img37.txt 0.050
+can not be verified
+analysis time:  0.11260247230529785  seconds
+
+mnist_relu_6_50.txt img37.txt 0.070
+can not be verified
+analysis time:  0.11348891258239746  seconds
+
+mnist_relu_6_50.txt img37.txt 0.100
+can not be verified
+analysis time:  0.11549711227416992  seconds
+
+mnist_relu_6_50.txt img81.txt 0.005
+can not be verified
+analysis time:  0.11552309989929199  seconds
+
+mnist_relu_6_50.txt img81.txt 0.010
+can not be verified
+analysis time:  0.11737990379333496  seconds
+
+mnist_relu_6_50.txt img81.txt 0.050
+can not be verified
+analysis time:  0.11616683006286621  seconds
+
+mnist_relu_6_50.txt img81.txt 0.070
+can not be verified
+analysis time:  0.11527752876281738  seconds
+
+mnist_relu_6_50.txt img81.txt 0.100
+can not be verified
+analysis time:  0.1139833927154541  seconds
+
+mnist_relu_6_50.txt img21.txt 0.005
+can not be verified
+analysis time:  0.11650991439819336  seconds
+
+mnist_relu_6_50.txt img21.txt 0.010
+can not be verified
+analysis time:  0.13001585006713867  seconds
+
+mnist_relu_6_50.txt img21.txt 0.050
+can not be verified
+analysis time:  0.12807726860046387  seconds
+
+mnist_relu_6_50.txt img21.txt 0.070
+can not be verified
+analysis time:  0.12412858009338379  seconds
+
+mnist_relu_6_50.txt img21.txt 0.100
+can not be verified
+analysis time:  0.12439632415771484  seconds
+
+mnist_relu_6_50.txt img70.txt 0.005
+can not be verified
+analysis time:  0.11854052543640137  seconds
+
+mnist_relu_6_50.txt img70.txt 0.010
+can not be verified
+analysis time:  0.12004780769348145  seconds
+
+mnist_relu_6_50.txt img70.txt 0.050
+can not be verified
+analysis time:  0.11536502838134766  seconds
+
+mnist_relu_6_50.txt img70.txt 0.070
+can not be verified
+analysis time:  0.11419010162353516  seconds
+
+mnist_relu_6_50.txt img70.txt 0.100
+can not be verified
+analysis time:  0.11370635032653809  seconds
+
+mnist_relu_6_50.txt img2.txt 0.005
+can not be verified
+analysis time:  0.11299729347229004  seconds
+
+mnist_relu_6_50.txt img2.txt 0.010
+can not be verified
+analysis time:  0.1164238452911377  seconds
+
+mnist_relu_6_50.txt img2.txt 0.050
+can not be verified
+analysis time:  0.13092732429504395  seconds
+
+mnist_relu_6_50.txt img2.txt 0.070
+can not be verified
+analysis time:  0.12936735153198242  seconds
+
+mnist_relu_6_50.txt img2.txt 0.100
+can not be verified
+analysis time:  0.13106369972229004  seconds
+
+mnist_relu_6_50.txt img17.txt 0.005
+can not be verified
+analysis time:  0.16905903816223145  seconds
+
+mnist_relu_6_50.txt img17.txt 0.010
+can not be verified
+analysis time:  0.1186513900756836  seconds
+
+mnist_relu_6_50.txt img17.txt 0.050
+can not be verified
+analysis time:  0.12246251106262207  seconds
+
+mnist_relu_6_50.txt img17.txt 0.070
+can not be verified
+analysis time:  0.11840271949768066  seconds
+
+mnist_relu_6_50.txt img17.txt 0.100
+can not be verified
+analysis time:  0.11982941627502441  seconds
+
+mnist_relu_6_50.txt img41.txt 0.005
+can not be verified
+analysis time:  0.11540102958679199  seconds
+
+mnist_relu_6_50.txt img41.txt 0.010
+can not be verified
+analysis time:  0.11966919898986816  seconds
+
+mnist_relu_6_50.txt img41.txt 0.050
+can not be verified
+analysis time:  0.1215677261352539  seconds
+
+mnist_relu_6_50.txt img41.txt 0.070
+can not be verified
+analysis time:  0.12221574783325195  seconds
+
+mnist_relu_6_50.txt img41.txt 0.100
+can not be verified
+analysis time:  0.13315677642822266  seconds
+
+mnist_relu_6_50.txt img88.txt 0.005
+verified
+analysis time:  0.13039946556091309  seconds
+
+mnist_relu_6_50.txt img88.txt 0.010
+can not be verified
+analysis time:  0.1208350658416748  seconds
+
+mnist_relu_6_50.txt img88.txt 0.050
+can not be verified
+analysis time:  0.11630582809448242  seconds
+
+mnist_relu_6_50.txt img88.txt 0.070
+can not be verified
+analysis time:  0.11528635025024414  seconds
+
+mnist_relu_6_50.txt img88.txt 0.100
+can not be verified
+analysis time:  0.11469435691833496  seconds
+
+mnist_relu_6_50.txt img3.txt 0.005
+can not be verified
+analysis time:  0.12294554710388184  seconds
+
+mnist_relu_6_50.txt img3.txt 0.010
+can not be verified
+analysis time:  0.11536049842834473  seconds
+
+mnist_relu_6_50.txt img3.txt 0.050
+can not be verified
+analysis time:  0.12546801567077637  seconds
+
+mnist_relu_6_50.txt img3.txt 0.070
+can not be verified
+analysis time:  0.1139991283416748  seconds
+
+mnist_relu_6_50.txt img3.txt 0.100
+can not be verified
+analysis time:  0.1166226863861084  seconds
+
+mnist_relu_6_50.txt img5.txt 0.005
+can not be verified
+analysis time:  0.11399102210998535  seconds
+
+mnist_relu_6_50.txt img5.txt 0.010
+can not be verified
+analysis time:  0.12344694137573242  seconds
+
+mnist_relu_6_50.txt img5.txt 0.050
+can not be verified
+analysis time:  0.12306523323059082  seconds
+
+mnist_relu_6_50.txt img5.txt 0.070
+can not be verified
+analysis time:  0.12385869026184082  seconds
+
+mnist_relu_6_50.txt img5.txt 0.100
+can not be verified
+analysis time:  0.17810273170471191  seconds
+
+mnist_relu_6_50.txt img92.txt 0.005
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.2636184692382812e-05  seconds
+
+mnist_relu_6_50.txt img92.txt 0.010
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.1444091796875e-05  seconds
+
+mnist_relu_6_50.txt img92.txt 0.050
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.1205673217773438e-05  seconds
+
+mnist_relu_6_50.txt img92.txt 0.070
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.1920928955078125e-05  seconds
+
+mnist_relu_6_50.txt img92.txt 0.100
+image not correctly classified by the network. expected label  9  classified label:  4
+analysis time:  1.2636184692382812e-05  seconds
+
+mnist_relu_6_50.txt img22.txt 0.005
+can not be verified
+analysis time:  0.15888142585754395  seconds
+
+mnist_relu_6_50.txt img22.txt 0.010
+can not be verified
+analysis time: 
