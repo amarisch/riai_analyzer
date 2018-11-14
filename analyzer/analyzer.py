@@ -248,6 +248,13 @@ def verify_all(netdir, imgdir):
                 analyze_fn(join(netdir,network), join(imgdir,image), epsilon)
                 print("")
 
+def linear_solver(weights, biases, num_in_pixels, ):
+    obj = price*food.sum() - buy.prod(prices) - store_pricing*store.sum()
+    model.setObjective(obj, GRB.MAXIMIZE) # maximize profit
+    model.optimize()
+
+    for v in model.getVars():
+
 
 if __name__ == '__main__':
     from sys import argv
